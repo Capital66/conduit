@@ -22,7 +22,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        if [ -f src/tests/requirements.txt ]; then pip install -r tests/requirements.txt; fi
+        if [ -f src/tests/requirements.txt ]; then pip install -r src/tests/requirements.txt; fi
     
     - name: Install Chrome
       run: |
