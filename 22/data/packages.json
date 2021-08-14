@@ -1,0 +1,43 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "src.tests",
+    "children" : [ {
+      "name" : "bejelentkezes_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "d6e64f276f2072e1",
+        "parentUid" : "9c369c3f3d571e35d5a278186354ed15",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628954582939,
+          "stop" : 1628954586754,
+          "duration" : 3815
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9c369c3f3d571e35d5a278186354ed15"
+    }, {
+      "name" : "regisztracio_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "8f6af5cbf1efe931",
+        "parentUid" : "e5c74b8e46a934dfbac8bc1bde2dca27",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628954586757,
+          "stop" : 1628954593568,
+          "duration" : 6811
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e5c74b8e46a934dfbac8bc1bde2dca27"
+    } ],
+    "uid" : "src.tests"
+  } ],
+  "name" : "packages"
+}

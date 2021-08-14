@@ -1,0 +1,21 @@
+[ {
+  "uid" : "8f6af5cbf1efe931",
+  "name" : "test_webshop",
+  "time" : {
+    "start" : 1628954586757,
+    "stop" : 1628954593568,
+    "duration" : 6811
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6e64f276f2072e1",
+  "name" : "test_webshop",
+  "time" : {
+    "start" : 1628954582939,
+    "stop" : 1628954586754,
+    "duration" : 3815
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
