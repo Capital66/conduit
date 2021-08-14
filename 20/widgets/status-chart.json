@@ -1,0 +1,11 @@
+[ {
+  "uid" : "f5c4736f228a7f75",
+  "name" : "test_webshop",
+  "time" : {
+    "start" : 1628953661115,
+    "stop" : 1628953665682,
+    "duration" : 4567
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

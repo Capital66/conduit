@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "fv-az74-94",
+    "children" : [ {
+      "name" : "3714-MainThread",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "f5c4736f228a7f75",
+        "parentUid" : "a8aaf2e785d9edcf91fdf056b3931ad4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1628953661115,
+          "stop" : 1628953665682,
+          "duration" : 4567
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a8aaf2e785d9edcf91fdf056b3931ad4"
+    } ],
+    "uid" : "4e47174ee1194fee5886e75385b7e7f2"
+  } ],
+  "name" : "timeline"
+}
