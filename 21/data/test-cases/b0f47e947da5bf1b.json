@@ -1,0 +1,53 @@
+{
+  "uid" : "b0f47e947da5bf1b",
+  "name" : "test_webshop",
+  "fullName" : "src.tests.regisztracio_test#test_webshop",
+  "historyId" : "4476f273ba188ae742e66deb8f51fc2f",
+  "time" : {
+    "start" : 1628954189548,
+    "stop" : 1628954197978,
+    "duration" : 8430
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.tests"
+  }, {
+    "name" : "suite",
+    "value" : "regisztracio_test"
+  }, {
+    "name" : "host",
+    "value" : "fv-az74-94"
+  }, {
+    "name" : "thread",
+    "value" : "3668-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.tests.regisztracio_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b0f47e947da5bf1b.json",
+  "parameterValues" : [ ]
+}

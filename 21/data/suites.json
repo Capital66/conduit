@@ -1,0 +1,26 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "src.tests",
+    "children" : [ {
+      "name" : "regisztracio_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "b0f47e947da5bf1b",
+        "parentUid" : "e3bd46af0af067aeefef4733efef5f01",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628954189548,
+          "stop" : 1628954197978,
+          "duration" : 8430
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e3bd46af0af067aeefef4733efef5f01"
+    } ],
+    "uid" : "c822f01005ee0a16a6c8ae867bf2cbf9"
+  } ],
+  "name" : "suites"
+}
