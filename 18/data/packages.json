@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "src.tests.bejelentkezes_test",
+    "children" : [ {
+      "name" : "test_webshop",
+      "uid" : "59c8a7d1e9c0c01c",
+      "parentUid" : "9c369c3f3d571e35d5a278186354ed15",
+      "status" : "broken",
+      "time" : {
+        "start" : 1628951440668,
+        "stop" : 1628951445689,
+        "duration" : 5021
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "src.tests.bejelentkezes_test"
+  } ],
+  "name" : "packages"
+}
