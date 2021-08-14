@@ -1,8 +1,6 @@
 [ {
-  "buildOrder" : 18,
-  "reportUrl" : "https://Capital66.github.io/conduit/18/",
+  "buildOrder" : 19,
+  "reportUrl" : "https://Capital66.github.io/conduit/19/",
   "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 5021
-  }
+  "data" : { }
 } ]
