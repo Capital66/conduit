@@ -31,6 +31,7 @@ def test_webshop():
 
     OK_button = driver.find_element_by_xpath('//button[@class="swal-button swal-button--confirm"]')
     OK_button.click()
+    time.sleep(3)
     assert driver.find_element_by_class_name('swal-modal').is_displayed() == False
 
     driver.close()
