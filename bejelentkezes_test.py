@@ -5,8 +5,7 @@ chrome_options = Options()
 chrome_options.add_argument("--headless")
 import time
 
-driver = webdriver.Chrome(options=chrome_options)
-driver = webdriver.Chrome(ChromeDriverManager().install())
+driver = webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options)
 
 def test_webshop():
     driver.get("http://localhost:1667/#/")
