@@ -1,0 +1,60 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "src.tests",
+    "children" : [ {
+      "name" : "bejelentkezes_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "bbbdd4f1d8ad4ded",
+        "parentUid" : "9c369c3f3d571e35d5a278186354ed15",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629014752223,
+          "stop" : 1629014756749,
+          "duration" : 4526
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9c369c3f3d571e35d5a278186354ed15"
+    }, {
+      "name" : "regisztracio_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "f0d6938ed6d253b7",
+        "parentUid" : "e5c74b8e46a934dfbac8bc1bde2dca27",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629014756752,
+          "stop" : 1629014763565,
+          "duration" : 6813
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e5c74b8e46a934dfbac8bc1bde2dca27"
+    }, {
+      "name" : "tobb_oldal_list_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "3bd64c9d3aff8eb1",
+        "parentUid" : "e7a3215630fcc57e1704acfbe61eebb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629014763567,
+          "stop" : 1629014770320,
+          "duration" : 6753
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e7a3215630fcc57e1704acfbe61eebb8"
+    } ],
+    "uid" : "src.tests"
+  } ],
+  "name" : "packages"
+}
