@@ -1,0 +1,53 @@
+{
+  "uid" : "bb7961c5e6e42699",
+  "name" : "test_webshop",
+  "fullName" : "src.tests.tobb_oldal_list_test#test_webshop",
+  "historyId" : "68469765cd9e4cdfe0b78c34db5c5d5f",
+  "time" : {
+    "start" : 1629062536031,
+    "stop" : 1629062542897,
+    "duration" : 6866
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.tests"
+  }, {
+    "name" : "suite",
+    "value" : "tobb_oldal_list_test"
+  }, {
+    "name" : "host",
+    "value" : "fv-az83-831"
+  }, {
+    "name" : "thread",
+    "value" : "3734-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.tests.tobb_oldal_list_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bb7961c5e6e42699.json",
+  "parameterValues" : [ ]
+}
