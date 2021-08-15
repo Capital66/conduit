@@ -1,0 +1,94 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "src.tests",
+    "children" : [ {
+      "name" : "bejelentkezes_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "f1ca5679cc50a302",
+        "parentUid" : "299998adb216b5cdf83d4871869e89ac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629034183384,
+          "stop" : 1629034188005,
+          "duration" : 4621
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "299998adb216b5cdf83d4871869e89ac"
+    }, {
+      "name" : "megl_adat_mod_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "cd9845e3e37b9254",
+        "parentUid" : "6194a230c896248a345bfb564f7d0985",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629034188008,
+          "stop" : 1629034204125,
+          "duration" : 16117
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6194a230c896248a345bfb564f7d0985"
+    }, {
+      "name" : "regisztracio_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "9d03a79d5d86db9",
+        "parentUid" : "e3bd46af0af067aeefef4733efef5f01",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629034204128,
+          "stop" : 1629034210893,
+          "duration" : 6765
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e3bd46af0af067aeefef4733efef5f01"
+    }, {
+      "name" : "tobb_oldal_list_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "66c11b779faec900",
+        "parentUid" : "e36e897537ae88d1012bdd726cea6765",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629034210895,
+          "stop" : 1629034217623,
+          "duration" : 6728
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e36e897537ae88d1012bdd726cea6765"
+    }, {
+      "name" : "uj_adat_bevitel_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "24cc975b5b9414f1",
+        "parentUid" : "e92dbbccbcac03c935e1c6cde2033a79",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629034217625,
+          "stop" : 1629034227053,
+          "duration" : 9428
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e92dbbccbcac03c935e1c6cde2033a79"
+    } ],
+    "uid" : "c822f01005ee0a16a6c8ae867bf2cbf9"
+  } ],
+  "name" : "suites"
+}
