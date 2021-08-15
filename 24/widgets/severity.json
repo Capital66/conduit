@@ -1,0 +1,41 @@
+[ {
+  "uid" : "692343f9e716cbec",
+  "name" : "test_webshop",
+  "time" : {
+    "start" : 1629024702330,
+    "stop" : 1629024711906,
+    "duration" : 9576
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3f89f09a2322f5d",
+  "name" : "test_webshop",
+  "time" : {
+    "start" : 1629024695515,
+    "stop" : 1629024702328,
+    "duration" : 6813
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b2087bdddf61010",
+  "name" : "test_webshop",
+  "time" : {
+    "start" : 1629024688671,
+    "stop" : 1629024695513,
+    "duration" : 6842
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "58bc5f0d483551c4",
+  "name" : "test_webshop",
+  "time" : {
+    "start" : 1629024684823,
+    "stop" : 1629024688669,
+    "duration" : 3846
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
