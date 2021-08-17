@@ -1,0 +1,53 @@
+{
+  "uid" : "5b7fe37676a8e22c",
+  "name" : "test_webshop",
+  "fullName" : "src.tests.surface.bejelentkezes_test#test_webshop",
+  "historyId" : "266c8f288ac9d294eae498ec6a4747b0",
+  "time" : {
+    "start" : 1629235239333,
+    "stop" : 1629235242996,
+    "duration" : 3663
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.tests.surface"
+  }, {
+    "name" : "suite",
+    "value" : "bejelentkezes_test"
+  }, {
+    "name" : "host",
+    "value" : "fv-az81-606"
+  }, {
+    "name" : "thread",
+    "value" : "3736-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.tests.surface.bejelentkezes_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5b7fe37676a8e22c.json",
+  "parameterValues" : [ ]
+}

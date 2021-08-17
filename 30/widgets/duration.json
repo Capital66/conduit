@@ -1,0 +1,81 @@
+[ {
+  "uid" : "5b7fe37676a8e22c",
+  "name" : "test_webshop",
+  "time" : {
+    "start" : 1629235239333,
+    "stop" : 1629235242996,
+    "duration" : 3663
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2da2df638b576fe1",
+  "name" : "test_webshop",
+  "time" : {
+    "start" : 1629235235562,
+    "stop" : 1629235239331,
+    "duration" : 3769
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf1fe75e8fb38ff4",
+  "name" : "test_webshop",
+  "time" : {
+    "start" : 1629235269621,
+    "stop" : 1629235276491,
+    "duration" : 6870
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "73466df3b9594a7c",
+  "name" : "test_webshop",
+  "time" : {
+    "start" : 1629235201262,
+    "stop" : 1629235235524,
+    "duration" : 34262
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "693f42a68b29b1a1",
+  "name" : "test_webshop",
+  "time" : {
+    "start" : 1629235246761,
+    "stop" : 1629235262749,
+    "duration" : 15988
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b5f41e9c3073e1c",
+  "name" : "test_webshop",
+  "time" : {
+    "start" : 1629235262751,
+    "stop" : 1629235269619,
+    "duration" : 6868
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a660dbaa4f586cb",
+  "name" : "test_webshop",
+  "time" : {
+    "start" : 1629235276493,
+    "stop" : 1629235286141,
+    "duration" : 9648
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fcfa383af2e7888a",
+  "name" : "test_webshop",
+  "time" : {
+    "start" : 1629235242999,
+    "stop" : 1629235246758,
+    "duration" : 3759
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
