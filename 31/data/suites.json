@@ -1,0 +1,145 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "src.tests.surface",
+    "children" : [ {
+      "name" : "adat_torlese_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "bc5943bc3963f09d",
+        "parentUid" : "e5300097492c9cba5b0d9aa566e9a68a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1629235552981,
+          "stop" : 1629235587938,
+          "duration" : 34957
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e5300097492c9cba5b0d9aa566e9a68a"
+    }, {
+      "name" : "adatok_list_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "cd54dc57e34f729f",
+        "parentUid" : "c543eed10804ff6722e22527a8892f2e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629235587981,
+          "stop" : 1629235591749,
+          "duration" : 3768
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c543eed10804ff6722e22527a8892f2e"
+    }, {
+      "name" : "bejelentkezes_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "7a088a560b5fa58",
+        "parentUid" : "523da6373ccde91d29bce14d9879d31c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629235591752,
+          "stop" : 1629235595400,
+          "duration" : 3648
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "523da6373ccde91d29bce14d9879d31c"
+    }, {
+      "name" : "kijelentkezes_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "48c1da9c42ca7f3a",
+        "parentUid" : "e2598912d8d28a64cdfcf7e072883dd0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629235595402,
+          "stop" : 1629235599191,
+          "duration" : 3789
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e2598912d8d28a64cdfcf7e072883dd0"
+    }, {
+      "name" : "megl_adat_mod_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "70e6fb8570b11bd7",
+        "parentUid" : "4160bcb5e1bebecefeb00848cfed5b0b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629235599193,
+          "stop" : 1629235615122,
+          "duration" : 15929
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4160bcb5e1bebecefeb00848cfed5b0b"
+    }, {
+      "name" : "regisztracio_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "10e385b21a7196eb",
+        "parentUid" : "12cec527283f005588424572cbf29d6d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629235615124,
+          "stop" : 1629235621879,
+          "duration" : 6755
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "12cec527283f005588424572cbf29d6d"
+    }, {
+      "name" : "tobb_oldal_list_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "2f5175e4de181f7a",
+        "parentUid" : "1b1faaee4f14212796ec972e345e3017",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629235621881,
+          "stop" : 1629235628642,
+          "duration" : 6761
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1b1faaee4f14212796ec972e345e3017"
+    }, {
+      "name" : "uj_adat_bevitel_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "9506d68dc7ab6579",
+        "parentUid" : "77f682c5cccc8b1b1dd673deb4fae818",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629235628644,
+          "stop" : 1629235638139,
+          "duration" : 9495
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "77f682c5cccc8b1b1dd673deb4fae818"
+    } ],
+    "uid" : "57e3bb74c4d7f6b832da76c86818047f"
+  } ],
+  "name" : "suites"
+}

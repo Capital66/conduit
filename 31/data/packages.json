@@ -1,0 +1,145 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "src.tests.surface",
+    "children" : [ {
+      "name" : "adat_torlese_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "bc5943bc3963f09d",
+        "parentUid" : "f58ba68122910921c585911fc7ab6a26",
+        "status" : "failed",
+        "time" : {
+          "start" : 1629235552981,
+          "stop" : 1629235587938,
+          "duration" : 34957
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f58ba68122910921c585911fc7ab6a26"
+    }, {
+      "name" : "adatok_list_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "cd54dc57e34f729f",
+        "parentUid" : "0e521fc1687bb4b490fa457d40a61a1e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629235587981,
+          "stop" : 1629235591749,
+          "duration" : 3768
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0e521fc1687bb4b490fa457d40a61a1e"
+    }, {
+      "name" : "bejelentkezes_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "7a088a560b5fa58",
+        "parentUid" : "db37cf34053271cedc79be416e3a51f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629235591752,
+          "stop" : 1629235595400,
+          "duration" : 3648
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "db37cf34053271cedc79be416e3a51f4"
+    }, {
+      "name" : "kijelentkezes_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "48c1da9c42ca7f3a",
+        "parentUid" : "30e93c786420e12822863781a8ba0465",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629235595402,
+          "stop" : 1629235599191,
+          "duration" : 3789
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "30e93c786420e12822863781a8ba0465"
+    }, {
+      "name" : "megl_adat_mod_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "70e6fb8570b11bd7",
+        "parentUid" : "381ae81864434d051d87da36e9be915b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629235599193,
+          "stop" : 1629235615122,
+          "duration" : 15929
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "381ae81864434d051d87da36e9be915b"
+    }, {
+      "name" : "regisztracio_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "10e385b21a7196eb",
+        "parentUid" : "0a3635b4c950e70b0a7f353f5684a98c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629235615124,
+          "stop" : 1629235621879,
+          "duration" : 6755
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0a3635b4c950e70b0a7f353f5684a98c"
+    }, {
+      "name" : "tobb_oldal_list_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "2f5175e4de181f7a",
+        "parentUid" : "0e705e598e0813e81e2777e5ea432053",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629235621881,
+          "stop" : 1629235628642,
+          "duration" : 6761
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0e705e598e0813e81e2777e5ea432053"
+    }, {
+      "name" : "uj_adat_bevitel_test",
+      "children" : [ {
+        "name" : "test_webshop",
+        "uid" : "9506d68dc7ab6579",
+        "parentUid" : "24cf043dec41417971a6645e9c721b79",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629235628644,
+          "stop" : 1629235638139,
+          "duration" : 9495
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "24cf043dec41417971a6645e9c721b79"
+    } ],
+    "uid" : "src.tests.surface"
+  } ],
+  "name" : "packages"
+}

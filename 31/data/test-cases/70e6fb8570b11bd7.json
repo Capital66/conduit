@@ -1,0 +1,53 @@
+{
+  "uid" : "70e6fb8570b11bd7",
+  "name" : "test_webshop",
+  "fullName" : "src.tests.surface.megl_adat_mod_test#test_webshop",
+  "historyId" : "cf5f7589d7426a9205325b6aa643cc0a",
+  "time" : {
+    "start" : 1629235599193,
+    "stop" : 1629235615122,
+    "duration" : 15929
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.tests.surface"
+  }, {
+    "name" : "suite",
+    "value" : "megl_adat_mod_test"
+  }, {
+    "name" : "host",
+    "value" : "fv-az81-606"
+  }, {
+    "name" : "thread",
+    "value" : "3752-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.tests.surface.megl_adat_mod_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "70e6fb8570b11bd7.json",
+  "parameterValues" : [ ]
+}
