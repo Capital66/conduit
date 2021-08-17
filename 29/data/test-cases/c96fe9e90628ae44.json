@@ -1,0 +1,59 @@
+{
+  "uid" : "c96fe9e90628ae44",
+  "name" : "test_webshop",
+  "fullName" : "src.tests.adat_torlese_test#test_webshop",
+  "historyId" : "5023a0ad5b0c93bed104bdcbf40bf186",
+  "time" : {
+    "start" : 1629234456966,
+    "stop" : 1629234491307,
+    "duration" : 34341
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 'Born: 1966' == ''\n  + Born: 1966",
+  "statusTrace" : "def test_webshop():\n        driver.get(\"http://localhost:1667/#/\")\n    \n        sign_in = driver.find_element_by_xpath('//*[@id=\"app\"]/nav/div/ul/li[2]/a')\n        sign_in.click()\n    \n        email = driver.find_element_by_xpath('//input[@placeholder=\"Email\"]')\n        email.send_keys(\"testuser3@example.com\")\n    \n        password = driver.find_element_by_xpath('//input[@placeholder=\"Password\"]')\n        password.send_keys(\"Abcd123$\")\n    \n        sign_in_button = driver.find_element_by_xpath('//button[@class=\"btn btn-lg btn-primary pull-xs-right\"]')\n        sign_in_button.click()\n        time.sleep(3)\n    \n        testuser3 = driver.find_element_by_xpath('//a[@href=\"#/@testuser3/\"]')\n        testuser3.click()\n        time.sleep(3)\n    \n        edit_profile = driver.find_element_by_xpath('//*[@id=\"app\"]/div/div[1]/div/div/div/div/a')\n        edit_profile.click()\n        time.sleep(3)\n    \n        about = driver.find_element_by_xpath('//textarea[@placeholder=\"Short bio about you\"]')\n        about.send_keys('Born: 1966')\n    \n        update_button = driver.find_element_by_xpath('//*[@id=\"app\"]/div/div/div/div/form/fieldset/button')\n        update_button.click()\n        time.sleep(3)\n    \n        OK_button = driver.find_element_by_xpath('//button[@class=\"swal-button swal-button--confirm\"]')\n        OK_button.click()\n        time.sleep(3)\n    \n        testuser3.click()\n        time.sleep(3)\n        edit_profile.click()\n        time.sleep(3)\n        about.clear()\n        time.sleep(3)\n        driver.find_element_by_xpath('//input[@placeholder=\"Your username\"]').click()\n        time.sleep(3)\n        update_button.click()\n        time.sleep(3)\n        assert driver.find_element_by_class_name('swal-title').text == \"Update successful!\"\n    \n        OK_button = driver.find_element_by_xpath('//button[@class=\"swal-button swal-button--confirm\"]')\n        OK_button.click()\n        time.sleep(3)\n        assert driver.find_element_by_class_name('swal-modal').is_displayed() == False\n>       assert about.get_attribute('value') == \"\"\nE       AssertionError: assert 'Born: 1966' == ''\nE         + Born: 1966\n\nsrc/tests/adat_torlese_test.py:61: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.tests"
+  }, {
+    "name" : "suite",
+    "value" : "adat_torlese_test"
+  }, {
+    "name" : "host",
+    "value" : "fv-az77-600"
+  }, {
+    "name" : "thread",
+    "value" : "3718-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.tests.adat_torlese_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "c96fe9e90628ae44.json",
+  "parameterValues" : [ ]
+}

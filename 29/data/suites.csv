@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Aug 17 21:08:15 GMT 2021","Tue Aug 17 21:08:18 GMT 2021","3750","src.tests","kijelentkezes_test","","","","test_webshop",""
+"failed","Tue Aug 17 21:07:36 GMT 2021","Tue Aug 17 21:08:11 GMT 2021","34341","src.tests","adat_torlese_test","","","","test_webshop",""
+"passed","Tue Aug 17 21:08:11 GMT 2021","Tue Aug 17 21:08:15 GMT 2021","3714","src.tests","bejelentkezes_test","","","","test_webshop",""
+"passed","Tue Aug 17 21:08:18 GMT 2021","Tue Aug 17 21:08:34 GMT 2021","15905","src.tests","megl_adat_mod_test","","","","test_webshop",""
+"passed","Tue Aug 17 21:08:34 GMT 2021","Tue Aug 17 21:08:41 GMT 2021","6845","src.tests","regisztracio_test","","","","test_webshop",""
+"passed","Tue Aug 17 21:08:41 GMT 2021","Tue Aug 17 21:08:48 GMT 2021","6811","src.tests","tobb_oldal_list_test","","","","test_webshop",""
+"passed","Tue Aug 17 21:08:48 GMT 2021","Tue Aug 17 21:08:57 GMT 2021","9457","src.tests","uj_adat_bevitel_test","","","","test_webshop",""
